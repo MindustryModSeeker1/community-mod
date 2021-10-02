@@ -1,6 +1,4 @@
-community-mod is now archived. thank you to everyone to contributed to this masterpiece.
-
-well *NO* you this is my version with my addings
+Orignal community-mod is archived, so this will basically copy off of the orignal.
 
 ![GEY](https://github.com/sample-text-here/community-mod/blob/master/logo.png?raw=true)
 
@@ -122,7 +120,10 @@ you really dont want to mess with kotlin java and js at the same time
 > *"noice"*
  
 — Alex Multiverse
-
+  
+>*"Since the orignal is archived my dumb ass fucking made a new one with the archiveds progress when it WAS archived."*
+  
+- MindustryModSeeker1
 </details>
 
 
