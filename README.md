@@ -1,5 +1,7 @@
 community-mod is now archived. thank you to everyone to contributed to this masterpiece.
 
+well *NO* you this is my version with my addings
+
 ![GEY](https://github.com/sample-text-here/community-mod/blob/master/logo.png?raw=true)
 
 # The Community Mod
@@ -8,7 +10,7 @@ community-mod is now archived. thank you to everyone to contributed to this mast
 Milestone as of 26/07/2021: the mod is 1.9GB
 
 ## How to use
-Star the mod for free collab. If starring it doesn't work try [this](https://github.com/sample-text-here/community-mod/invitations).
+Star the mod for free collab. If starring it doesn't work try [this](https://github.com/MindusryModSeeker1/community-mod/invitations).
 
 ![aaaaaaaaa](https://user-images.githubusercontent.com/54080182/124795209-3d6c4d00-df69-11eb-9325-433a2f56f578.png)
 
